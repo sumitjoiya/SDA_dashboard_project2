@@ -43,6 +43,9 @@ The main objective of the COVID Dashboard is to serve as a decision-support tool
 5. **Community Awareness**:  
    To provide transparent information to the public and improve their understanding of the current pandemic situation.
 
+![Screenshot from 2024-11-27 02-44-43](https://github.com/user-attachments/assets/1183ced6-bac5-4ef7-8596-8f973d4fb33f)
+![Screenshot from 2024-11-27 02-43-57](https://github.com/user-attachments/assets/a45ca903-d7c4-4110-9292-810fb7ea9c88)
+
 ---
 
 ## 3. Problems Solved Through the Dashboard
